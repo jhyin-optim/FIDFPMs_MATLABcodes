@@ -26,7 +26,7 @@ Implementation and numerical experience with the above codes are described in th
 
 Jian, J.B., Yin, J.H., Tang, C.M., Han, D.L.: A family of inertial derivative-free projection 
 methods for constrained nonlinear pseudo-monotone equations with applications. 
-Submitted to Computational and Applied Mathematics (08 April 2022).
+Submitted to Computational and Applied Mathematics (Submitted 08 April 2022; Revised 11 July 2022).
 
 If you use/modify this code, please cite the just-mentioned paper appropriately.
 
