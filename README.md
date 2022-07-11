@@ -1,5 +1,5 @@
 # FIDFPMs_MATLABcodes
-% Matlab Model by Jianghua Yin (Jul.,2022,Nanning)
+% Matlab codes by Jianghua Yin (Jul.,2022,Nanning)
 
 % Copyright (C) 2022 Jian Group
 
@@ -39,3 +39,4 @@
 % model=3 means -F(zk)'*dk ≥ sigma*tk*norm(F(zk))/(1+norm(F(zk)))*norm(dk)^2
 
 % model=4 means -F(zk)'*dk ≥ sigma*tk*max(lambda,min(nu,norm(Fz_new,2)))*norm(dk)^2
+
