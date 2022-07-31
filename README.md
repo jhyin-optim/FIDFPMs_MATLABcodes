@@ -33,6 +33,9 @@ If you use/modify this code, please cite the just-mentioned paper appropriately.
 Questions/comments/suggestions about the codes are welcome.  
 
 Jinbao Jian, jianjb@gxu.edu.cn
+
 Jianghua Yin, jianghuayin1017@126.com
+
 Chuniming Tang, cmtang@gxu.edu.cn
+
 Daolan Han, 546474207@qq.com
