@@ -24,9 +24,7 @@ Decentralized_logistic_regression
 
 Implementation and numerical experience with the above codes are described in the following paper: 
 
-Jian, J.B., Yin, J.H., Tang, C.M., Han, D.L.: A family of inertial derivative-free projection 
-methods for constrained nonlinear pseudo-monotone equations with applications. 
-Submitted to Computational and Applied Mathematics (Submitted 08 April 2022; Revised 11 July 2022).
+Jian, J., Yin, J., Tang, C. et al. A family of inertial derivative-free projection methods for constrained nonlinear pseudo-monotone equations with applications. Comp. Appl. Math. 41, 309 (2022). https://doi.org/10.1007/s40314-022-02019-6
 
 If you use/modify this code, please cite the just-mentioned paper appropriately.
 
